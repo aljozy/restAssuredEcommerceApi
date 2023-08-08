@@ -1,4 +1,3 @@
-```markdown
 # Ecommerce API Automation using RestAssured and Cucumber
 
 Welcome to the Ecommerce API Automation project! This project demonstrates the automation of an ecommerce API using RestAssured, a powerful Java library for API testing. The chosen framework for this project is BDD (Behavior-Driven Development) with Cucumber, utilizing Gherkin keywords for clear and expressive test scenarios.
